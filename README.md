@@ -1,1 +1,2 @@
 # Personal-Portfolio
+Designed and developed a responsive personal portfolio website showcasing my front-end and back-end web development expertise. The website offers an engaging user experience, seamless navigation, and visually appealing design. Created using HTML, CSS, and JavaScript, the portfolio highlights my skills, projects, and educational background. Proficient in both front-end and back-end web development.
